@@ -1,0 +1,6 @@
+C:\Users\Gena\Desktop\lines\lines\bin\Debug\lines.exe.config
+C:\Users\Gena\Desktop\lines\lines\bin\Debug\lines.exe
+C:\Users\Gena\Desktop\lines\lines\bin\Debug\lines.pdb
+C:\Users\Gena\Desktop\lines\lines\obj\Debug\lines.csprojResolveAssemblyReference.cache
+C:\Users\Gena\Desktop\lines\lines\obj\Debug\lines.exe
+C:\Users\Gena\Desktop\lines\lines\obj\Debug\lines.pdb
